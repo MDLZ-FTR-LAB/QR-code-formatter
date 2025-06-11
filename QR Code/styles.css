@@ -1,0 +1,27 @@
+@font-face {
+    font-family: 'MDLZ';
+    src: url('fonts/MDLZBITETYPE-REGULAR_0\ 3.OTF') format('truetype');
+}
+
+body {
+    font-family: 'MDLZ';
+    text-align: center;
+    background: #f7f0ff;
+    margin: 0;
+    padding: 1em 0;
+    overflow: hidden;
+    height: 100vh;
+    box-sizing: border-box;
+}
+
+.controls {
+    margin-bottom: 1em;
+}
+
+canvas {
+    margin-top: 1em;
+    border: 1px #ccc;
+    background: transparent;
+    max-height: 65vh;
+    height: auto;
+}
