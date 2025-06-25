@@ -19,7 +19,7 @@ Create and download a customized template for generated QR codes on your web bro
 
 ## How to Use
 
-1. Visit: **[https://isabellachou.github.io/QR-code-creator/](https://your-username.github.io/QR-code-creator/)**  
+1. Visit: **[https://isabellachou.github.io/QR-code-formatter/](https://isabellachou.github.io/QR-code-formatter/)**  
    *(or open `index.html` locally in your browser)*
 
 2. Upload a photo using the file input.
