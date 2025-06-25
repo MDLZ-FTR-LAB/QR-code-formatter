@@ -1,4 +1,4 @@
-# 📸 MDLZ QR Code Formatter
+# MDLZ QR Code Formatter
 
 Create and download a customized template for generated QR codes on your web browser. The QR code is placed within a MDLZ-shaped frame, and the MDLZ Bite Type font is used to style the caption. 
 
@@ -6,7 +6,7 @@ Create and download a customized template for generated QR codes on your web bro
 
 ---
 
-## ✨ Features
+## Features
 
 - 🖼 Upload any QR code
 - ✍️ Add a custom caption (auto-wrapping supported!)
@@ -17,7 +17,7 @@ Create and download a customized template for generated QR codes on your web bro
 
 ---
 
-## 🚀 How to Use
+## How to Use
 
 1. Visit: **[https://isabellachou.github.io/QR-code-creator/](https://your-username.github.io/QR-code-creator/)**  
    *(or open `index.html` locally in your browser)*
@@ -30,21 +30,20 @@ Create and download a customized template for generated QR codes on your web bro
 
 ---
 
-## 🛠 File Structure
+## File Structure
 
-.
-├── index.html # Main web app page
-├── style.css # Styling, including font and layout
-├── script.js # Handles rendering, wrapping text, and image download
-├── fonts/
- └── MDLZBITETYPE-REGULAR_0 3.OTF # Custom MDLZ font
-├── assets/
- └── background.png # Transparent square frame image
- └── mdlz_qr_code_creator.png # Example image of a download
+├── index.html # Main web app page <br />
+├── style.css # Styling, including font and layout <br />
+├── script.js # Handles rendering, wrapping text, and image download <br />
+├── fonts/ <br />
+ └── MDLZBITETYPE-REGULAR_0 3.OTF # Custom MDLZ font <br />
+├── assets/ <br />
+ └── background.png # Transparent square frame image <br />
+ └── mdlz_qr_code_creator.png # Example image of a download <br />
 
 ---
 
-## 💡 Notes
+## Notes
 
 - The canvas is transparent — when you download the PNG, it preserves transparency around the MDLZ "imperfect" square border.
 - Captions are wrapped automatically to fit inside the frame and avoid overflow.
