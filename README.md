@@ -2,7 +2,7 @@
 
 Create and download a customized template for generated QR codes on your web browser. The QR code is placed within a MDLZ-shaped frame, and the MDLZ Bite Type font is used to style the caption. 
 
-![Example of Downloaded QR Code](assets/mdlz_qr_code_creator.png)
+![Example of Downloaded QR Code](assets/sample_qr_code.png)
 
 ---
 
